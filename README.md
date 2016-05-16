@@ -1,2 +1,2 @@
 # LargeNum
-...finds the phone number, in array, with the largest sum of its digits.
+...finds the largest phone number in array by the sum of its digits.
